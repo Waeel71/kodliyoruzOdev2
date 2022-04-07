@@ -1,0 +1,15 @@
+.continer{
+    text-align: center;
+    margin-top: 200px;
+}
+.continer input{
+    margin-bottom: 20px;
+    width: 25%;
+}
+.continer .card{
+    background-color: aqua;
+    margin: 5px;
+    display: inline-block;
+    padding: 5px;
+    width: 25%;
+}
